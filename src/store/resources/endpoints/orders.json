@@ -1,0 +1,7 @@
+{
+  "api": "https://smartfit.ltct.ro/api",
+  "all": "/orders",
+  "me": "/orders/me",
+  "id": "/orders/{{id}}",
+  "manage": "/orders/{{id}}/manage/{{action}}"
+}

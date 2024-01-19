@@ -1,0 +1,6 @@
+{
+  "api": "https://smartfit.ltct.ro/api",
+  "all": "/discounts",
+  "new": "/discounts",
+  "id": "/discounts/{{id}}"
+}

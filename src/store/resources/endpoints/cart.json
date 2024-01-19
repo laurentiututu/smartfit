@@ -1,0 +1,8 @@
+{
+  "api": "https://smartfit.ltct.ro/api",
+  "cart": "/cart",
+  "id": "/cart/{{id}}",
+  "discount_add": "/cart/discount/{{code}}",
+  "discount_remove": "/cart/discount/{{id}}",
+  "order": "/cart/checkout/{{method}}"
+}

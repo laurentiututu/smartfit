@@ -1,0 +1,7 @@
+{
+  "api": "https://smartfit.ltct.ro/api",
+  "all": "/disciplines",
+  "new": "/disciplines",
+  "id": "/disciplines/{{id}}",
+  "pictures": "/disciplines/{{id}}/pictures"
+}

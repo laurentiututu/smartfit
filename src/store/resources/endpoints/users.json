@@ -1,0 +1,12 @@
+{
+  "api": "https://smartfit.ltct.ro/api",
+  "access": "/users/me/access",
+  "me": "/users/me",
+  "picture": "/users/me/profilePicture",
+  "users": "/users",
+  "user": "/users/{{id}}",
+  "gym_in": "/inOutLog/in",
+  "gym_out": "/inOutLog/out",
+  "gym_history": "/inOutLog/myHistory",
+  "pass_update": "/auth/updateMyPassword"
+}

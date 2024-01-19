@@ -1,0 +1,7 @@
+{
+  "api": "https://smartfit.ltct.ro/api",
+  "public": "/analytics",
+  "admin": "/analytics/admin",
+  "dashboard": "/analytics/dashboard",
+  "weather": "/weather"
+}

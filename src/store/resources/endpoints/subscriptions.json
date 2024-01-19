@@ -1,0 +1,9 @@
+{
+  "api": "https://smartfit.ltct.ro/api",
+  "all": "/subscriptions",
+  "new": "/subscriptions",
+  "id": "/subscriptions/{{id}}",
+  "me": "/subscriptions/me/info",
+  "favorite": "/subscriptions/{{id}}/favorite",
+  "pictures": "/subscriptions/{{id}}/pictures"
+}
